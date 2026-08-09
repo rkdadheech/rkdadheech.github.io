@@ -1,2 +1,1 @@
-# Ramesh Kumar Portfolio
-Upload all files/folders to the root of rkdadheech.github.io and enable GitHub Pages on main / root.
+Upload all files to the root of rkdadheech.github.io. This version intentionally keeps profile.png and Ramesh_Kumar_Resume.pdf in the root to match your current repository.
